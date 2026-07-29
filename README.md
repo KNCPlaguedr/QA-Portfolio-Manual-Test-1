@@ -4,9 +4,9 @@
 
 **Projeto:** Portfólio pessoal de QA
 
-**Aplicação sob teste:** [demoblaze.com](https://www.demoblaze.com) — e-commerce fictício de eletrônicos
+**Aplicação sob teste:** [demoblaze.com](https://www.demoblaze.com) -- e-commerce fictício de eletrônicos
 
-**Ciclo de referência:** Ciclo 1 · 27–28/07/2026
+**Ciclo de referência:** Ciclo 1 · 27-28/07/2026
 
 ---
 
@@ -43,7 +43,7 @@ Os documentos foram escritos na ordem em que normalmente são produzidos em um c
 | Defeitos abertos | 4 (2 Alta · 1 Média · 1 Baixa) |
 | Cobertura de funcionalidades em escopo | 9/9 (100%) |
 
-**Recomendação final do ciclo:** não publicar novas alterações até a correção dos defeitos de severidade Alta (BUG-02 — checkout aceita cartão inválido; BUG-04 — checkout sem login), por comprometerem a integridade do fluxo de compra. BUG-01 e BUG-03 podem ser tratados no próximo ciclo sem bloquear entrega.
+**Recomendação final do ciclo:** não publicar novas alterações até a correção dos defeitos de severidade Alta (BUG-02 -- checkout aceita cartão inválido; BUG-04 -- checkout sem login), por comprometerem a integridade do fluxo de compra. BUG-01 e BUG-03 podem ser tratados no próximo ciclo sem bloquear entrega.
 
 ---
 
@@ -51,7 +51,7 @@ Os documentos foram escritos na ordem em que normalmente são produzidos em um c
 
 - Testes funcionais, exploratórios, de campo/negativo e smoke test
 - Particionamento de equivalência e análise de valor limite (ex.: cálculo de total do carrinho)
-- Rastreabilidade requisito → caso de teste → execução → defeito
+- Rastreabilidade requisito -> caso de teste -> execução -> defeito
 - Encerramento de ciclo com verificação formal dos critérios de saída e recomendação de release baseada em risco
 
 ---
