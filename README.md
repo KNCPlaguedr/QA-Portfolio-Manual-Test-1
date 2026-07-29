@@ -1,9 +1,12 @@
 # Portfólio de QA · Testes Manuais em demoblaze.com
 
--**Autor:** Luiz Vinicius Cunha Maciel
--**Projeto:** Portfólio pessoal de QA
--**Aplicação sob teste:** [demoblaze.com](https://www.demoblaze.com) — e-commerce fictício de eletrônicos
--**Ciclo de referência:** Ciclo 1 · 27–28/07/2026
+**Autor:** Luiz Vinicius Cunha Maciel
+
+**Projeto:** Portfólio pessoal de QA
+
+**Aplicação sob teste:** [demoblaze.com](https://www.demoblaze.com) — e-commerce fictício de eletrônicos
+
+**Ciclo de referência:** Ciclo 1 · 27–28/07/2026
 
 ---
 
