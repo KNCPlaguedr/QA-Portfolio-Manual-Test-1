@@ -25,10 +25,10 @@ Os documentos foram escritos na ordem em que normalmente são produzidos em um c
 | # | Documento | O que contém |
 |---|-----------|---------------|
 | 1 | **Plano_de_Testes.pdf** | Escopo, tipos de teste, estratégia, técnicas de design de caso, critérios de entrada/saída, ferramentas e papéis. Ponto de partida do ciclo. |
-| 2 | **Casos_de_Teste.docx** | 21 casos de teste detalhados (CT-01 a CT-21), com pré-condições, dados de teste, passos, resultado esperado, prioridade e tipo de teste. |
+| 2 | **Casos_de_Teste.pdf** | 21 casos de teste detalhados (CT-01 a CT-21), com pré-condições, dados de teste, passos, resultado esperado, prioridade e tipo de teste. |
 | 3 | **Matriz_Execucao.xlsx** | Planilha de execução do Ciclo 1: status de cada caso (Passou/Falhou), data, executor, evidências e observações. |
-| 4 | **Relatorio_de_Bugs.docx** | Os 4 defeitos encontrados na execução, com severidade, prioridade, passos para reproduzir, resultado esperado x obtido e evidências. |
-| 5 | **Test_Summary_Report.docx** | Report do Ciclo 1: métricas, verificação dos critérios de saída, riscos residuais e recomendação final de release. |
+| 4 | **Relatorio_de_Bugs.pdf** | Os 4 defeitos encontrados na execução, com severidade, prioridade, passos para reproduzir, resultado esperado x obtido e evidências. |
+| 5 | **Test_Summary_Report.pdf** | Report do Ciclo 1: métricas, verificação dos critérios de saída, riscos residuais e recomendação final de release. |
 
 ---
 
